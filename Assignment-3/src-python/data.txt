@@ -1,0 +1,2 @@
+Time:10:23:30, Temperature:31, LightLevel:20
+Time:10:23:40, Temperature:30, LightLevel:22
